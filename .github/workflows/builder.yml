@@ -74,5 +74,3 @@ jobs:
          run: |
               curl -sL https://git.io/file-transfer | sh
               ./transfer gof $ROM_AB
-              
-           
